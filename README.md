@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahim-SOL
 - 👀 I’m interested in LLM, MLOps
-- 🌱 I’m currently learning ML(deep learning, NLP, Computer vision)
+- 🌱 Always learning as knowledge never betrays you
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/mahfuzur-mahim-rahman/)
   - [Codeforces](https://codeforces.com/profile/Mahim220)
