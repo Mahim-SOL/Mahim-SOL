@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahim-SOL
+- 👋 Hi, I’m Md. Mahfuzur Rahman
 - 👀 I’m interested in LLM, MLOps
 - 🌱 Always learning as knowledge never betrays you
 - 📫 How to reach me: 
