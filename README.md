@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md. Mahfuzur Rahman
-- 👀 I’m interested in LLM, MLOps
+- 👀 I’m interested in LLM, MLOps-Devops, Agentic AI systems
 - 🌱 Always learning as knowledge never betrays you
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/mahfuzur-mahim-rahman/)
